@@ -1,0 +1,3 @@
+Select s.Name from  STUDENTS as s where s.Marks > x order by RIGHT(NAME,3), id asc
+
+NB:I think there should be a value in in place of "x"
